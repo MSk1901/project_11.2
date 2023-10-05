@@ -7,3 +7,5 @@ def make_titled(text: str):
     """Makes the 1st letter in each word capital"""
     return text.title()
 
+
+print("This is a hotfix")
